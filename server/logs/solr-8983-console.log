@@ -1,14 +1,14 @@
-2019-05-07 08:06:14.057 INFO  (main) [   ] o.e.j.u.log Logging initialized @5292ms to org.eclipse.jetty.util.log.Slf4jLog
-2019-05-07 08:06:14.340 WARN  (main) [   ] o.e.j.s.AbstractConnector Ignoring deprecated socket close linger time
-2019-05-07 08:06:14.352 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.14.v20181114; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 1.8.0_131-b11
-2019-05-07 08:06:14.400 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///C:/Users/mareike/Documents/Studium/8.Semester-SS19/solr-7.7.1/server/contexts/] at interval 0
-2019-05-07 08:06:16.339 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
-2019-05-07 08:06:16.362 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
-2019-05-07 08:06:16.363 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
-2019-05-07 08:06:16.366 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 660000ms
-2019-05-07 08:06:16.471 INFO  (main) [   ] o.a.s.u.c.SSLCredentialProviderFactory Processing SSL Credential Provider chain: env;sysprop
-2019-05-07 08:06:16.534 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
-2019-05-07 08:06:16.542 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 7.7.1
-2019-05-07 08:06:16.543 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in cloud mode on port 8983
-2019-05-07 08:06:16.543 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: C:\Users\mareike\Documents\Studium\8.Semester-SS19\solr-7.7.1
-2019-05-07 08:06:16.544 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2019-05-07T08:06:16.544Z
+2019-05-19 17:20:11.480 INFO  (main) [   ] o.e.j.u.log Logging initialized @2363ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-05-19 17:20:12.017 WARN  (main) [   ] o.e.j.s.AbstractConnector Ignoring deprecated socket close linger time
+2019-05-19 17:20:12.030 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.14.v20181114; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 1.8.0_131-b11
+2019-05-19 17:20:12.079 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///C:/Users/mareike/Documents/Studium/8.Semester-SS19/solr-7.7.1/server/contexts/] at interval 0
+2019-05-19 17:20:13.265 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2019-05-19 17:20:13.286 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2019-05-19 17:20:13.286 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2019-05-19 17:20:13.290 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 600000ms
+2019-05-19 17:20:13.382 INFO  (main) [   ] o.a.s.u.c.SSLCredentialProviderFactory Processing SSL Credential Provider chain: env;sysprop
+2019-05-19 17:20:13.439 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2019-05-19 17:20:13.447 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 7.7.1
+2019-05-19 17:20:13.448 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in cloud mode on port 8983
+2019-05-19 17:20:13.448 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: C:\Users\mareike\Documents\Studium\8.Semester-SS19\solr-7.7.1
+2019-05-19 17:20:13.451 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2019-05-19T17:20:13.451Z
