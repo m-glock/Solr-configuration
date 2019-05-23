@@ -797,6 +797,7 @@
       <str name="lowernames">true</str>
       <str name="fmap.content">_text_</str>
       <str name="captureAttr">true</str>
+      <bool name="ignoreTikaException">true</bool>
     </lst>
   </requestHandler>
 
